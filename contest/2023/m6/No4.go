@@ -1,6 +1,5 @@
 package m6
 
-//
 var str string
 var min, max int
 var mod int
