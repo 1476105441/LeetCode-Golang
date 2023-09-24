@@ -1,4 +1,4 @@
-package m6
+package d4
 
 var str string
 var min, max int

@@ -1,4 +1,4 @@
-package m6
+package d4
 
 func semiOrderedPermutation(nums []int) int {
 	n := len(nums)

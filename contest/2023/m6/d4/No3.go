@@ -1,4 +1,4 @@
-package m6
+package d4
 
 type pair struct{ val, time int }
 

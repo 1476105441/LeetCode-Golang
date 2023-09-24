@@ -1,4 +1,4 @@
-package m6
+package d4
 
 func minimizedStringLength(s string) int {
 	runes := map[rune]int{}
